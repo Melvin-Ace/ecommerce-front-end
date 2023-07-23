@@ -1,2 +1,2 @@
-# ecommerce-front-end
-This Repository is for the front-end of an ecommerce site
+# Front end of an e-commerce site
+This Repository is for the front end of an e-commerce site
